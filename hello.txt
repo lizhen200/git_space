@@ -13,4 +13,4 @@ hello LiZhen! hello git!
 hello LiZhen! hello git!
 hello LiZhen! hello git!
 hello LiZhen! hello git!
-hello LiZhen! hello git!
+hello LiZhen! hello git! hot-fix test
